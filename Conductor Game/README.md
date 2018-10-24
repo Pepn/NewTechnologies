@@ -1,4 +1,4 @@
 # NewTechnologies
 HKU New Technologies Course
 
-Download and add the VRTK toolkit to the folder inorder to run it using unity
+VR Game using VRTK use right controller to sweep and adjust tempo(experimental), use left controller to select which instruments should play.
